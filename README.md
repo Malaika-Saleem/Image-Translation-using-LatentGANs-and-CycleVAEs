@@ -3,9 +3,6 @@
 
 A deep learning project built with PyTorch for translating face sketches into realistic face images and vice versa using a shared latent representation and cycle consistency.
 
-## GitHub Description
-
-PyTorch project for sketch-to-face and face-to-sketch image translation using latent cycle consistency and encoder-decoder architectures.
 
 ---
 
@@ -234,5 +231,5 @@ This project is open-source and available under the MIT License.
 
 # Author
 
-Developed as a generative AI and computer vision project using PyTorch.
+Developed as a generative AI innovation by Malaika Saleem.
 
